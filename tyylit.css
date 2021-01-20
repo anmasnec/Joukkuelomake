@@ -1,0 +1,26 @@
+#luoSivusto {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.lomake {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#luoLomake {
+    width: 30%;
+}
+#lista {
+    width:  50%;
+}
+.listainput {
+    display:flex;
+    flex-direction: column;
+    text-align: right;
+}
+
+fieldset {
+    padding: 0 10% 0 1%;
+}
